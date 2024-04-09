@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **poplidev575@gmail.com**
 
-- ⚡ Fun fact **I Love to Play Games**
+- ⚡ Fun fact **I Love to Play Video Games 🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
