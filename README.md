@@ -1,6 +1,3 @@
-
-
-
 [![MasterHead](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif)
 <h1 align="center">Hi 👋, I'm DEV POPLI</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
